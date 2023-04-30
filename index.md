@@ -1,5 +1,5 @@
 ---
-title: Introduction to Chat GPT
+title: Hands On Machine Learning
 ---
 
 1.1 What is ChatGPT and how does it work?
